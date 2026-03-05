@@ -15,9 +15,9 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-**You also need to unzip the file knotinfo_data_complete.zip in the folder you have found it.**
-
 > Note: `stable-baselines3` will pull in `torch`. If you want GPU, install an appropriate PyTorch build first (then install `stable-baselines3`).
+
+You also need to unzip the file knotinfo_data_complete.zip in the folder you have found it.
 
 ## Run (local)
 ```bash
