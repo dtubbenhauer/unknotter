@@ -72,4 +72,4 @@ Recommended:
   ```
 
 ## License
-MIT (change if you prefer something else).
+Unlicensed.
