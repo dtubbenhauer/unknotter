@@ -1,0 +1,11 @@
+gymnasium>=0.29
+stable-baselines3>=2.3.0
+numpy
+pandas
+tqdm
+gcsfs
+fsspec
+spherogram
+snappy-manifolds
+jupyter
+tensorboard
