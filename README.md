@@ -5,7 +5,8 @@ This repository contains a Jupyter notebook (`notebooks/uncrossing.ipynb`) for t
 ## What’s in here
 - **Notebook**: `notebooks/uncrossing.ipynb` (narrative + experiments)
 - **Reproducibility knobs**: configurable paths via environment variables (see below)
-- **External file**: that you can run in google colab if you have problems (it wants you to have files saved in google drive)
+- **External file**: uncrossing.ipynb that you can run in google colab if you have problems (it wants you to have files saved in google drive)
+- **Hard unknots**: If you are interested in the hard unknots and their unknotting, use hard_unknot.ipynb that you can run in google colab if you have problems (it wants you to have files saved in google drive)
 
 ## Install (local)
 ```bash
